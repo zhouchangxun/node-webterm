@@ -1,5 +1,5 @@
 {
-	"login": "echo \"welcome xun! ^_^\"; /bin/bash",
+	"login": "echo \"welcome xun! ^_^\";export TERM=linux; /bin/bash",
 	"port": 3000,
 	"interface": "0.0.0.0"
 }
